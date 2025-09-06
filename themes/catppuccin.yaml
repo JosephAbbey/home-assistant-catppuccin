@@ -1870,17 +1870,17 @@ Catppuccin Auto Latte Frappe:
       # Primary
       # NOTE: This centers around `primary-40` rather than `primary-50` because
       # HA uses `-40` as the default brand color for some reason.
-      ha-color-primary-05: rgb(84, 76, 122)
-      ha-color-primary-10: rgb(91, 73, 139)
-      ha-color-primary-20: rgb(106, 68, 172)
-      ha-color-primary-30: rgb(121, 63, 205)
-      ha-color-primary-40: rgb(136, 57, 239)
-      ha-color-primary-50: rgb(153, 88, 240)
-      ha-color-primary-60: rgb(170, 117, 241)
-      ha-color-primary-70: rgb(186, 147, 242)
-      ha-color-primary-80: rgb(205, 181, 243)
-      ha-color-primary-90: rgb(222, 210, 244)
-      ha-color-primary-95: rgb(231, 226, 245)
+      ha-color-primary-05: rgb(69, 88, 111)
+      ha-color-primary-10: rgb(63, 96, 117)
+      ha-color-primary-20: rgb(50, 112, 129)
+      ha-color-primary-30: rgb(36, 129, 141)
+      ha-color-primary-40: rgb(23, 146, 153)
+      ha-color-primary-50: rgb(59, 162, 168)
+      ha-color-primary-60: rgb(94, 177, 184)
+      ha-color-primary-70: rgb(129, 192, 198)
+      ha-color-primary-80: rgb(168, 210, 214)
+      ha-color-primary-90: rgb(203, 225, 230)
+      ha-color-primary-95: rgb(222, 233, 238)
 
       # Neutral
       ha-color-neutral-05: rgb(84, 87, 112)
@@ -2109,8 +2109,8 @@ Catppuccin Auto Latte Frappe:
       outline-hover-color: var(--catppuccin-surface2)
 
       # RGB
-      rgb-primary-color: var(--catppuccin-mauve-rgb)
-      rgb-accent-color: var(--catppuccin-mauve-rgb)
+      rgb-primary-color: var(--catppuccin-teal-rgb)
+      rgb-accent-color: var(--catppuccin-teal-rgb)
       rgb-primary-text-color: var(--catppuccin-text-rgb)
       rgb-secondary-text-color: var(--catppuccin-subtext1-rgb)
       rgb-text-primary-color: var(--catppuccin-text-rgb)
@@ -2237,7 +2237,7 @@ Catppuccin Auto Latte Frappe:
       ##########
       # Graphs #
       ##########
-      graph-color-1: var(--catppuccin-mauve)
+      graph-color-1: var(--catppuccin-teal)
       graph-color-2: var(--catppuccin-green)
       graph-color-3: var(--catppuccin-red)
       graph-color-4: var(--catppuccin-blue)
@@ -2247,7 +2247,7 @@ Catppuccin Auto Latte Frappe:
       graph-color-8: var(--catppuccin-maroon)
       graph-color-9: var(--catppuccin-lavender)
       graph-color-10: var(--catppuccin-peach)
-      graph-color-11: var(--catppuccin-teal)
+      graph-color-11: var(--catppuccin-mauve)
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
@@ -2317,17 +2317,17 @@ Catppuccin Auto Latte Frappe:
       # Primary
       # NOTE: This centers around `primary-40` rather than `primary-50` because
       # HA uses `-40` as the default brand color for some reason.
-      ha-color-primary-05: rgb(198, 201, 243)
-      ha-color-primary-10: rgb(199, 196, 242)
-      ha-color-primary-20: rgb(200, 183, 237)
-      ha-color-primary-30: rgb(201, 170, 233)
-      ha-color-primary-40: rgb(202, 158, 230)
-      ha-color-primary-50: rgb(176, 140, 203)
-      ha-color-primary-60: rgb(151, 123, 177)
-      ha-color-primary-70: rgb(127, 106, 151)
-      ha-color-primary-80: rgb(99, 87, 123)
-      ha-color-primary-90: rgb(74, 70, 97)
-      ha-color-primary-95: rgb(60, 60, 83)
+      ha-color-primary-05: rgb(189, 207, 238)
+      ha-color-primary-10: rgb(180, 206, 232)
+      ha-color-primary-20: rgb(164, 204, 217)
+      ha-color-primary-30: rgb(147, 202, 203)
+      ha-color-primary-40: rgb(129, 200, 190)
+      ha-color-primary-50: rgb(115, 175, 170)
+      ha-color-primary-60: rgb(103, 151, 150)
+      ha-color-primary-70: rgb(90, 127, 131)
+      ha-color-primary-80: rgb(74, 101, 110)
+      ha-color-primary-90: rgb(62, 77, 90)
+      ha-color-primary-95: rgb(54, 64, 80)
 
       # Neutral
       ha-color-neutral-05: rgb(190, 200, 237)
@@ -2556,8 +2556,8 @@ Catppuccin Auto Latte Frappe:
       outline-hover-color: var(--catppuccin-surface2)
 
       # RGB
-      rgb-primary-color: var(--catppuccin-mauve-rgb)
-      rgb-accent-color: var(--catppuccin-mauve-rgb)
+      rgb-primary-color: var(--catppuccin-teal-rgb)
+      rgb-accent-color: var(--catppuccin-teal-rgb)
       rgb-primary-text-color: var(--catppuccin-text-rgb)
       rgb-secondary-text-color: var(--catppuccin-subtext1-rgb)
       rgb-text-primary-color: var(--catppuccin-text-rgb)
@@ -2684,7 +2684,7 @@ Catppuccin Auto Latte Frappe:
       ##########
       # Graphs #
       ##########
-      graph-color-1: var(--catppuccin-mauve)
+      graph-color-1: var(--catppuccin-teal)
       graph-color-2: var(--catppuccin-green)
       graph-color-3: var(--catppuccin-red)
       graph-color-4: var(--catppuccin-blue)
@@ -2694,7 +2694,7 @@ Catppuccin Auto Latte Frappe:
       graph-color-8: var(--catppuccin-maroon)
       graph-color-9: var(--catppuccin-lavender)
       graph-color-10: var(--catppuccin-peach)
-      graph-color-11: var(--catppuccin-teal)
+      graph-color-11: var(--catppuccin-mauve)
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
@@ -3213,17 +3213,17 @@ Catppuccin Auto Latte Macchiato:
       # Primary
       # NOTE: This centers around `primary-40` rather than `primary-50` because
       # HA uses `-40` as the default brand color for some reason.
-      ha-color-primary-05: rgb(202, 205, 245)
-      ha-color-primary-10: rgb(201, 198, 246)
-      ha-color-primary-20: rgb(200, 185, 245)
-      ha-color-primary-30: rgb(199, 173, 245)
-      ha-color-primary-40: rgb(198, 160, 246)
-      ha-color-primary-50: rgb(171, 140, 215)
-      ha-color-primary-60: rgb(145, 120, 184)
-      ha-color-primary-70: rgb(119, 101, 153)
-      ha-color-primary-80: rgb(89, 79, 120)
-      ha-color-primary-90: rgb(63, 59, 89)
-      ha-color-primary-95: rgb(49, 49, 72)
+      ha-color-primary-05: rgb(194, 212, 239)
+      ha-color-primary-10: rgb(186, 211, 235)
+      ha-color-primary-20: rgb(171, 212, 223)
+      ha-color-primary-30: rgb(155, 213, 212)
+      ha-color-primary-40: rgb(139, 213, 202)
+      ha-color-primary-50: rgb(122, 184, 178)
+      ha-color-primary-60: rgb(105, 156, 154)
+      ha-color-primary-70: rgb(89, 128, 131)
+      ha-color-primary-80: rgb(70, 96, 106)
+      ha-color-primary-90: rgb(53, 68, 82)
+      ha-color-primary-95: rgb(44, 53, 69)
 
       # Neutral
       ha-color-neutral-05: rgb(194, 202, 236)
@@ -3452,8 +3452,8 @@ Catppuccin Auto Latte Macchiato:
       outline-hover-color: var(--catppuccin-surface2)
 
       # RGB
-      rgb-primary-color: var(--catppuccin-mauve-rgb)
-      rgb-accent-color: var(--catppuccin-mauve-rgb)
+      rgb-primary-color: var(--catppuccin-teal-rgb)
+      rgb-accent-color: var(--catppuccin-teal-rgb)
       rgb-primary-text-color: var(--catppuccin-text-rgb)
       rgb-secondary-text-color: var(--catppuccin-subtext1-rgb)
       rgb-text-primary-color: var(--catppuccin-text-rgb)
@@ -3580,7 +3580,7 @@ Catppuccin Auto Latte Macchiato:
       ##########
       # Graphs #
       ##########
-      graph-color-1: var(--catppuccin-mauve)
+      graph-color-1: var(--catppuccin-teal)
       graph-color-2: var(--catppuccin-green)
       graph-color-3: var(--catppuccin-red)
       graph-color-4: var(--catppuccin-blue)
@@ -3590,7 +3590,7 @@ Catppuccin Auto Latte Macchiato:
       graph-color-8: var(--catppuccin-maroon)
       graph-color-9: var(--catppuccin-lavender)
       graph-color-10: var(--catppuccin-peach)
-      graph-color-11: var(--catppuccin-teal)
+      graph-color-11: var(--catppuccin-mauve)
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
@@ -4109,17 +4109,17 @@ Catppuccin Auto Latte Mocha:
       # Primary
       # NOTE: This centers around `primary-40` rather than `primary-50` because
       # HA uses `-40` as the default brand color for some reason.
-      ha-color-primary-05: rgb(204, 207, 244)
-      ha-color-primary-10: rgb(205, 202, 245)
-      ha-color-primary-20: rgb(204, 190, 246)
-      ha-color-primary-30: rgb(203, 178, 246)
-      ha-color-primary-40: rgb(203, 166, 247)
-      ha-color-primary-50: rgb(174, 143, 213)
-      ha-color-primary-60: rgb(146, 121, 181)
-      ha-color-primary-70: rgb(118, 100, 149)
-      ha-color-primary-80: rgb(87, 75, 112)
-      ha-color-primary-90: rgb(59, 53, 80)
-      ha-color-primary-95: rgb(44, 41, 61)
+      ha-color-primary-05: rgb(197, 215, 240)
+      ha-color-primary-10: rgb(191, 217, 236)
+      ha-color-primary-20: rgb(176, 220, 229)
+      ha-color-primary-30: rgb(162, 223, 221)
+      ha-color-primary-40: rgb(148, 226, 213)
+      ha-color-primary-50: rgb(128, 193, 185)
+      ha-color-primary-60: rgb(109, 162, 158)
+      ha-color-primary-70: rgb(90, 130, 132)
+      ha-color-primary-80: rgb(69, 94, 101)
+      ha-color-primary-90: rgb(50, 63, 74)
+      ha-color-primary-95: rgb(40, 46, 59)
 
       # Neutral
       ha-color-neutral-05: rgb(197, 205, 234)
@@ -4348,8 +4348,8 @@ Catppuccin Auto Latte Mocha:
       outline-hover-color: var(--catppuccin-surface2)
 
       # RGB
-      rgb-primary-color: var(--catppuccin-mauve-rgb)
-      rgb-accent-color: var(--catppuccin-mauve-rgb)
+      rgb-primary-color: var(--catppuccin-teal-rgb)
+      rgb-accent-color: var(--catppuccin-teal-rgb)
       rgb-primary-text-color: var(--catppuccin-text-rgb)
       rgb-secondary-text-color: var(--catppuccin-subtext1-rgb)
       rgb-text-primary-color: var(--catppuccin-text-rgb)
@@ -4476,7 +4476,7 @@ Catppuccin Auto Latte Mocha:
       ##########
       # Graphs #
       ##########
-      graph-color-1: var(--catppuccin-mauve)
+      graph-color-1: var(--catppuccin-teal)
       graph-color-2: var(--catppuccin-green)
       graph-color-3: var(--catppuccin-red)
       graph-color-4: var(--catppuccin-blue)
@@ -4486,7 +4486,7 @@ Catppuccin Auto Latte Mocha:
       graph-color-8: var(--catppuccin-maroon)
       graph-color-9: var(--catppuccin-lavender)
       graph-color-10: var(--catppuccin-peach)
-      graph-color-11: var(--catppuccin-teal)
+      graph-color-11: var(--catppuccin-mauve)
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
