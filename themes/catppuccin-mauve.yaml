@@ -1,4 +1,4 @@
-Catppuccin Latte:
+Catppuccin Latte Mauve:
   #####################
   # Catppuccin Colors #
   #####################
@@ -449,7 +449,7 @@ Catppuccin Latte:
   # Inform Home Assistant that this is a single-mode theme.
   modes:
     light: {}
-Catppuccin Frappe:
+Catppuccin Frappe Mauve:
   #####################
   # Catppuccin Colors #
   #####################
@@ -900,7 +900,7 @@ Catppuccin Frappe:
   # Inform Home Assistant that this is a single-mode theme.
   modes:
     dark: {}
-Catppuccin Macchiato:
+Catppuccin Macchiato Mauve:
   #####################
   # Catppuccin Colors #
   #####################
@@ -1351,7 +1351,7 @@ Catppuccin Macchiato:
   # Inform Home Assistant that this is a single-mode theme.
   modes:
     dark: {}
-Catppuccin Mocha:
+Catppuccin Mocha Mauve:
   #####################
   # Catppuccin Colors #
   #####################
@@ -1802,7 +1802,7 @@ Catppuccin Mocha:
   # Inform Home Assistant that this is a single-mode theme.
   modes:
     dark: {}
-Catppuccin Auto Latte Frappe:
+Catppuccin Auto Latte Frappe Mauve:
   modes:
     light:
       #####################
@@ -2698,7 +2698,7 @@ Catppuccin Auto Latte Frappe:
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
-Catppuccin Auto Latte Macchiato:
+Catppuccin Auto Latte Macchiato Mauve:
   modes:
     light:
       #####################
@@ -3594,7 +3594,7 @@ Catppuccin Auto Latte Macchiato:
       graph-color-12: var(--catppuccin-rosewater)
       graph-color-13: var(--catppuccin-sapphire)
       graph-color-14: var(--catppuccin-flamingo)
-Catppuccin Auto Latte Mocha:
+Catppuccin Auto Latte Mocha Mauve:
   modes:
     light:
       #####################
